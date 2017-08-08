@@ -385,6 +385,9 @@ a:hover {
 }
 
 /***************** Nav  *****************/
+#cinema{
+	opacity: 0.5
+}
 
 #nav {
   border: 1px solid red;

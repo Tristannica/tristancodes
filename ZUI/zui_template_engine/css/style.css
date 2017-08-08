@@ -201,8 +201,8 @@ html, body {
 /**** Base ****/
 
 body {
-  background: grey;
-  /*background-image: url('../img/galvanizepage.png');*/
+  /*background: grey;*/
+  background-image: url("https://media.flixel.com/cinemagraph/ypy8bw9fgw1zv2b4htp2?hd=true");
   font-family: 'M+ 2p', sans-serif;
   color: #223;
   min-width: 1000px;
